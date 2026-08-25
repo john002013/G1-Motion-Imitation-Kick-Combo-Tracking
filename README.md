@@ -136,9 +136,11 @@ Trained on a Kaggle T4 (15 GB VRAM) notebook. Long runs were launched with `nohu
 
 ## Results
 
-_Add a side-by-side GIF/video of the reference motion vs. the trained policy, and the W&B reward/tracking-error curves here._
+[![Watch the demo](https://img.youtube.com/vi/0-mINhzO0GU/maxresdefault.jpg)](https://youtu.be/0-mINhzO0GU)
 
-W&B run: `<link to your W&B run>`
+▶️ [Watch the trained policy demo on YouTube](https://youtu.be/0-mINhzO0GU)
+
+📊 [View live training curves on W&B](https://wandb.ai/abidemibabalola23-ladoke-akintola-university-of-technology/mjlab/runs/dhr1zcx8) (reward, tracking errors, and episode metrics)
 
 ## Acknowledgments
 - [`mjlab`](https://github.com/mujocolab/mjlab) — Kevin Zakka, Qiayuan Liao, Brent Yi, Louis Le Lay, Koushil Sreenath, Pieter Abbeel (UC Berkeley, Sorbonne University)
